@@ -1,0 +1,6 @@
+- cereals
+- bread
+- pasta
+- wine
+- beer
+- cheese
