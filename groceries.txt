@@ -5,3 +5,4 @@
 - beer
 - cheese
 - butter
+- eggs
