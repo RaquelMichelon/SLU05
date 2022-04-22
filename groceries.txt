@@ -4,3 +4,4 @@
 - wine
 - beer
 - cheese
+- butter
