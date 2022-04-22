@@ -6,3 +6,4 @@
 - cheese
 - butter
 - eggs
+- toilet paper
